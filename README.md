@@ -10,8 +10,6 @@ A full-stack **Employee Management System** built using **Spring Boot**, **JWT A
 * 👤 User Registration & Login
 * 🧑‍💼 Employee CRUD Operations (Create, Read, Update, Delete)
 * 🛡️ Role-Based Access Control (ADMIN / USER)
-* 📊 Dashboard APIs (secured)
-* ⚡ RESTful API Design
 * 🗄️ MySQL Database Integration
 
 ---
