@@ -148,28 +148,13 @@ POST /api/employees
   "department": "IT",
   "salary": 50000
 }
-```
 
----
 
-## 🚧 Future Enhancements
 
-* ✅ Pagination & Sorting
-* ✅ Global Exception Handling
-* ✅ Swagger API Documentation
-* ✅ Frontend Integration (React/Angular)
-* ✅ Docker Deployment
 
----
 
-## 👨‍💻 Author
 
-**Venkata Nikhil**
 
----
 
-## ⭐ Contribute
 
-Feel free to fork this repo and contribute!
 
----
